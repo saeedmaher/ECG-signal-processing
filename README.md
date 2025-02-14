@@ -1,0 +1,1 @@
+Some processing on an ECG signal. We made a practical filter to filter the noise of the signal, getting the heartbeat rate and and how to convert the signal from a time domain to frequency domain and getting the heart rate from this new domain.
